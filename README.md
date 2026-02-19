@@ -16,7 +16,7 @@ to achieve accurate and stable robot localization.
 
 ## 🧠 Localization Concept
 
-<img width="826" height="553" alt="image" src="https://github.com/user-attachments/assets/3705c643-ddea-410a-81db-90d29ea13403" />
+<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/3705c643-ddea-410a-81db-90d29ea13403" />
 
 This project separates localization into two layers:
 
@@ -142,3 +142,9 @@ ros2 launch tb3_localization_project amcl_localization.launch.py
 ros2 run turtlebot3_teleop teleop_keyboard
 ```
 3) Observe localization performance in RViz2
+
+# Demo:
+
+https://github.com/user-attachments/assets/efeee4cd-c29e-4684-856a-653dd7c541c3
+
+

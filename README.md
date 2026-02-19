@@ -131,7 +131,7 @@ It integrates the complete localization pipeline and starts:
 * RViz2
 
 ```
-ros2 launch tb3_ekf_amcl_localization amcl_localization.launch.py
+ros2 launch tb3_localization_project amcl_localization.launch.py
 ```
 ### After launching:
 
